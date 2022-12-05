@@ -19,3 +19,4 @@ for x in range(4):
     bob.right(90)
     bob.forward(80)
     bob.right(90)
+turtle.exitonclick()
